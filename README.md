@@ -1,4 +1,3 @@
 ### book
 
-Initialize
-edited
+Initialize & edited
