@@ -1,3 +1,9 @@
-### book
+### book resources
 
-Initialize & edited
+* corman
+* geeks
+* cp3
+* progrramming camp
+* baps-bgd.github.io
+* planet
+* cp-algo
