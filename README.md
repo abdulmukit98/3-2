@@ -6,6 +6,6 @@
 * visualgo.net/en/
 * progrramming camp
 * baps-bgd.github.io
-* planet
 * shakilcompetitiveprogramming.blogspot.com
+* petr-mitrichev.blogspot.com
 * cpps.bacsbd.org/
