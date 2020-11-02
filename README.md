@@ -7,5 +7,5 @@
 * progrramming camp
 * baps-bgd.github.io
 * planet
-* cp-algo
+* shakilcompetitiveprogramming.blogspot.com
 * cpps.bacsbd.org/
